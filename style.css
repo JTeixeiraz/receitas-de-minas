@@ -19,3 +19,15 @@ main{
     justify-content: center;
     align-items: center;
 }
+
+button{
+    margin-top: 5vh;
+}
+
+#list{
+    margin-top: 10vh;
+}
+
+ul{
+    margin-top: 2vh;
+}
