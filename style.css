@@ -18,16 +18,20 @@ main{
     text-align: center;
     justify-content: center;
     align-items: center;
-}
+}   
 
 button{
     margin-top: 5vh;
 }
 
-#list{
-    margin-top: 10vh;
+.list{
+    margin-top: 2vh;
 }
 
 ul{
     margin-top: 2vh;
+}
+
+#modoPreparo{
+    margin-top: 10vh;
 }
